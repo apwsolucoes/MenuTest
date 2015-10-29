@@ -1,0 +1,5 @@
+M:\www\Exemplos\GFT\Menu\Menu\bin\Debug\Menu.exe
+M:\www\Exemplos\GFT\Menu\Menu\bin\Debug\Menu.pdb
+M:\www\Exemplos\GFT\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+M:\www\Exemplos\GFT\Menu\Menu\obj\Debug\Menu.exe
+M:\www\Exemplos\GFT\Menu\Menu\obj\Debug\Menu.pdb
